@@ -1,11 +1,12 @@
-
-import './App.css';
+import StateRep from './components/stateRep';
+import './index.css';
 
 function App() {
   return (
-    <Container>
+    <div>
       <h1 className="mt-3">Replace me with your own stuff!</h1>
-    </Container>
+      <StateRep />
+    </div>
   );
 }
 

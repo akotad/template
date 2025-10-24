@@ -21,4 +21,4 @@ function StateRep() {
   )
 }
 
-export default StateRep
+export default StateRep;
